@@ -1,0 +1,8 @@
+name: deployment-chart
+description: Microservice deployment chart
+version: 0.1.0
+sources:
+- https://github.com/timfpark/istio-deployment-chart
+maintainers:
+- name: timfpark
+  email: timfpark@gmail.com
